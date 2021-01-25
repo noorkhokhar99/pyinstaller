@@ -1,1 +1,4 @@
 # pyinstaller
+
+
+pyinstaller.exe --onefile
